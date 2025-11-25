@@ -8,7 +8,101 @@
 
 ---
 
-## 📋 目錄
+## �️ 圖表快速瀏覽
+
+### 綜合分析圖表
+
+<details>
+<summary>點擊展開/收合圖表</summary>
+
+#### 交易量分析
+![各行政區交易量分布](charts/chart_01_area_transaction_volume.png)
+
+#### 價格分析
+![各行政區總價分布](charts/chart_02_area_total_price.png)
+![各行政區單價箱型圖](charts/chart_03_area_unit_price_box.png)
+![價格分布統計](charts/chart_20_price_distribution.png)
+
+#### 交易類型與建物類型
+![交易類型圓餅圖](charts/chart_04_transaction_type_pie.png)
+![建物類型比較](charts/chart_05_building_type_comparison.png)
+
+#### 趨勢分析
+![價格趨勢圖](charts/chart_06_price_trend.png)
+![成交量與價格雙軸圖](charts/chart_07_volume_price_dual.png)
+![房型價格趨勢摘要](charts/chart_17_room_type_price_trend_summary.png)
+![房型價格年度趨勢（按行政區）](charts/chart_16_room_type_price_trend_by_area_year.png)
+
+#### 房型分析
+![房型分析圖](charts/chart_08_room_type_analysis.png)
+![各行政區房型價格分析](charts/chart_10_room_type_price_by_area.png)
+![各房型交易量分析](charts/chart_12_transaction_volume_by_room_type.png)
+
+#### 屋齡分析
+![屋齡與價格關係](charts/chart_09_age_price_relation.png)
+
+#### 熱力圖分析
+![行政區與房型熱力圖](charts/chart_11_area_room_type_heatmap.png)
+![相關性熱力圖](charts/chart_19_correlation_heatmap.png)
+
+#### 行政區比較
+![各行政區價格比較](charts/chart_13_area_price_comparison.png)
+![行政區房型季度價格](charts/chart_14_area_room_type_quarterly_price.png)
+![中山區房型季度熱力圖](charts/chart_15_area_room_quarterly_heatmap_中山區.png)
+
+#### 綜合分析
+![綜合行政區房型單價分析](charts/chart_18_comprehensive_area_room_type_unit_price.png)
+
+</details>
+
+### 各行政區詳細分析
+
+<details>
+<summary>點擊展開/收合各區分析圖表</summary>
+
+#### 中山區
+![中山區分析](charts/chart_21_area_中山區_analysis.png)
+
+#### 內湖區
+![內湖區分析](charts/chart_22_area_內湖區_analysis.png)
+
+#### 北投區
+![北投區分析](charts/chart_23_area_北投區_analysis.png)
+
+#### 文山區
+![文山區分析](charts/chart_24_area_文山區_analysis.png)
+
+#### 大安區
+![大安區分析](charts/chart_25_area_大安區_analysis.png)
+
+#### 士林區
+![士林區分析](charts/chart_26_area_士林區_analysis.png)
+
+#### 信義區
+![信義區分析](charts/chart_27_area_信義區_analysis.png)
+
+#### 萬華區
+![萬華區分析](charts/chart_28_area_萬華區_analysis.png)
+
+#### 松山區
+![松山區分析](charts/chart_29_area_松山區_analysis.png)
+
+#### 中正區
+![中正區分析](charts/chart_30_area_中正區_analysis.png)
+
+#### 南港區
+![南港區分析](charts/chart_31_area_南港區_analysis.png)
+
+#### 大同區
+![大同區分析](charts/chart_32_area_大同區_analysis.png)
+
+</details>
+
+---
+
+## �📋 目錄
+
+
 
 1. [10房10衛](#10房10衛)
 2. [1房](#1房)
