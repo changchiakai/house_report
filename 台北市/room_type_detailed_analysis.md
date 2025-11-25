@@ -12,7 +12,7 @@
 
 ### 綜合分析圖表
 
-<details>
+<!-- <details>
 <summary>📊 交易量分析</summary>
 
 ![各行政區交易量分布](charts/chart_01_area_transaction_volume.png)
@@ -170,7 +170,7 @@
 
 ![大同區分析](charts/chart_32_area_大同區_analysis.png)
 
-</details>
+</details> -->
 
 ---
 
